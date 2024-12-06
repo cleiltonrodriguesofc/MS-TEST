@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cleil\\Documents\\SENAI\\TESTE BACKEND\\AT IMC MSTEST\\UnitTest1_MSTest\\atividade_imc_mstest\\atividade_imc_mstest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cleil\\Documents\\SENAI\\TESTE BACKEND\\AT IMC MSTEST\\UnitTest1_MSTest\\atividade_imc_mstest\\atividade_imc_mstest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleil\\Documents\\SENAI\\TESTE BACKEND\\AT IMC MSTEST\\UnitTest1_MSTest\\atividade_imc_mstest\\atividade_imc_mstest.csproj",
+        "projectName": "atividade_imc_mstest",
+        "projectPath": "C:\\Users\\cleil\\Documents\\SENAI\\TESTE BACKEND\\AT IMC MSTEST\\UnitTest1_MSTest\\atividade_imc_mstest\\atividade_imc_mstest.csproj",
+        "packagesPath": "C:\\Users\\cleil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleil\\Documents\\SENAI\\TESTE BACKEND\\AT IMC MSTEST\\UnitTest1_MSTest\\atividade_imc_mstest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cleil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
